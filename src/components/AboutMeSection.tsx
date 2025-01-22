@@ -71,15 +71,9 @@ export const AboutMeSection = () => {
             <span className="text-[var(--p)]">A</span>bout me
           </h1>
           <p className="mt-6 indent-16">
-            Hi, I'm Bhonandh Sai Kandru—or just May! As a full-stack software
-            engineer with over 4 years of experience, I've worked on a variety
-            of multi-tenant SaaS products, guided teams, and mentored junior
-            developers. My expertise lies in{' '}
-            <Highlightable>React and Node.js</Highlightable>, and I'm passionate
-            about crafting <Highlightable>aesthetically pleasing</Highlightable>{' '}
-            and impactful websites that truly make a difference for users. I
-            value writing clean, high-quality code, and I'm currently into
-            exploring new technologies to create unique, engaging visuals.
+          Hello! I’m Bhonandh Sai Kandru, an IT professional and Master’s Candidate in Computer Science at Indiana State University. My expertise lies in <Highlightable>Data Analytics</Highlightable>, <Highlightable>IT Support</Highlightable>, <Highlightable>Networking</Highlightable>, and <Highlightable>Cybersecurity</Highlightable>. I’m passionate about solving complex challenges and delivering <Highlightable>data-driven solutions</Highlightable> that empower businesses.
+
+I thrive at the intersection of <Highlightable>technology, data, and security</Highlightable>, crafting systems that are both secure and scalable. Let’s connect to discuss how my skills can contribute to your team’s success!
           </p>
         </div>
       </div>

@@ -52,8 +52,8 @@ export const TitleSection = ({
           Bhonandh Sai Kandru.
         </h1>
         <p className={classNames('text-lg sm:text-3xl')}>
-          Software Engineer,
-          <span className="text-body"> specialized in React and Node.js.</span>
+          Network Engineer,
+          <span className="text-body"> Focused on Networking and Cybersecurity.</span>
         </p>
       </div>
     </div>

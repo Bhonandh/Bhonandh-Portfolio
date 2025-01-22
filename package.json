@@ -1,5 +1,5 @@
 {
-  "name": "gigigimay.github.io",
+  "name": "bhonandh.github.io",
   "version": "0.1.0",
   "private": true,
   "type": "module",
@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "yarn run build --mode production",
-    "deploy": "gh-pages -b master -d dist"
+    "deploy": "gh-pages -b gh-pages -d dist"
   },
   "dependencies": {
     "@floating-ui/react": "^0.27.0",

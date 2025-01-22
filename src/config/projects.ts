@@ -8,7 +8,7 @@ export const projects: ProjectInfo[] = [
       'An experimental webapp in the theme of APT. song from Bruno Mars and Rosé ❤️. Plays with WebGL, Three.js, and mix-blend-mode CSS.',
     year: 2024,
     visitLink: 'https://3d-apateu.vercel.app/',
-    repoLink: 'https://github.com/gigigimay/3d-apateu',
+    repoLink: 'https://github.com/bhonandh',
     isPublic: true,
     techStacks: [techStacks.threeJs, techStacks.react, techStacks.tailwindCSS],
   },
@@ -17,7 +17,7 @@ export const projects: ProjectInfo[] = [
     description:
       'A tiny discord bot that do varius fun stuffs in your channel like turning you and your friends into pokemons, or saying things you want with text-to-speech API.',
     year: 2022,
-    repoLink: 'https://github.com/gigigimay/bubeepbot',
+    repoLink: 'https://github.com/bhonandh',
     isPublic: true,
     techStacks: [
       techStacks.nodeJs,
@@ -32,7 +32,7 @@ export const projects: ProjectInfo[] = [
       'An experimental webapp to learn MobX state managing and manual webpack configuration.',
     year: 2020,
     visitLink: 'https://tarot-six-nu.vercel.app/',
-    repoLink: 'https://github.com/gigigimay/tarot',
+    repoLink: 'https://github.com/bhonandh',
     isPublic: true,
     techStacks: [
       techStacks.react,
@@ -111,7 +111,7 @@ export const projects: ProjectInfo[] = [
       'A python desktop application to store your guitar chords, with features to transpose the keys and auto scroll for convenience playing.',
     year: 2020,
     visitLink: 'https://youtu.be/R8kW0aoBXHA?si=PhINdkej25SNF7VV',
-    repoLink: 'https://github.com/gigigimay/ChordsHouse',
+    repoLink: 'https://github.com/bhonandh',
     isPublic: true,
     techStacks: [techStacks.python, techStacks.pyQt, techStacks.mongoDB],
   },
@@ -120,7 +120,7 @@ export const projects: ProjectInfo[] = [
     description:
       'A demo mobile Fultter application to give you latest news and services from Ministry of Industry. Part of the Ministry of Industry app contest 2020.',
     year: 2020,
-    repoLink: 'https://github.com/gigigimay/endustry',
+    repoLink: 'https://github.com/bhonandh',
     isPublic: true,
     techStacks: [techStacks.flutter, techStacks.dart],
   },
