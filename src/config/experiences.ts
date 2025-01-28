@@ -4,20 +4,6 @@ import { ExperienceInfo } from 'types'
 
 export const experiences: ExperienceInfo[] = [
   {
-    title: 'Senior Full-Stack Software Engineer',
-    company: 'AppMan',
-    logo: ISULogo,
-    date: 'Jan 2021 - Jul 2024',
-    description: `
-- Developed and maintained core multi-tenant SaaS products, including E-KYC Platform,
-Background Check Platform, Document OCR Pipelines with AI Chatbot, Transaction & Credits System, Video Conferencing App.
-- Successfully migrated production data for 200+ client companies, encompassing thousands of cases, from old to new systems.
-- Played a key role in Agile processes, including product design, technical solution design, resource planning, and sprint planning.
-- Supervised ~10 junior and intern developers through code reviews, guidance, and mentorship.
-- Improved code review processes and promoted high-quality code, leading to a cleaner, more consistent codebase across the team.
-`,
-  },
-  {
     title: 'Graduate Assistant',
     company: 'Indiana State University',
     logo: ISULogo,

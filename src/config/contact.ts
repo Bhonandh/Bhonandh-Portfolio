@@ -4,7 +4,7 @@ import { Contact } from 'types'
 
 export const resumeContact: Contact = {
   name: 'Resume',
-  url: 'https://drive.google.com/file/d/1EWq28CeiaKtv0zjS7SeeM7UHIWCBzVsS/view?usp=sharing',
+  url: 'https://drive.google.com/file/d/1uT77iQAUevnb79o3PUogkVweTvq2I_PL/view?usp=sharing',
   faIcon: faFileLines,
 }
 
